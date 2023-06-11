@@ -12,7 +12,7 @@ const Hero = () => {
         <button
           type='button'
           onClick={() =>
-            window.open("https://www.youtube.com/watch?v=hRQqJtgYz_Q", "_blank")
+            window.open("https://pixeljets.com/blog/gpt-summary-is-broken/", "_blank")
           }
           className='tutorial_btn animate__animated animate__backInRight'
         >
